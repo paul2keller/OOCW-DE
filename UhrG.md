@@ -6,12 +6,12 @@
 
 (2) Der Rechtsinhaber kann der Nutzung nach Absatz 1 jederzeit widersprechen.
 
-(3) Die §§ 51b bis 51d und § 51f des Verwertungsgesellschaftengesetzes zu kollektiven Lizenzen mit erweiterter Wirkung sind mit folgenden Maßgaben entsprechend anzuwenden:
+(3) Die §§ 51b, 51c und § 51f des Verwertungsgesellschaftengesetzes zu kollektiven Lizenzen mit erweiterter Wirkung sind mit folgenden Maßgaben entsprechend anzuwenden:
 
 1. An die Stelle des Außenstehenden tritt der Rechtsinhaber, an die Stelle des Vertrages die gesetzliche Nutzungserlaubnis.
 2. Abweichend von § 51b Absatz 3 Nummer 3 Buchstabe b des Verwertungsgesellschaftengesetzes ist die Nutzung nur auf nicht kommerziellen Internetseiten zuläs- sig.
 3. Abweichend von § 51b Absatz 3 Nummer 5 des Verwertungsgesellschaftengesetzes gibt die Kulturerbe-Einrichtung die Informationen über die geplante Nutzung bekannt.
-4. Abweichend von § 51d des Verwertungsgesellschaftengesetzes ist Absatz 1 nicht auf Werkreihen mit Drittstaatenbezug anzuwenden.
+4. Absatz 1 ist nicht auf Werkreihen anzuwenden, die überwiegend Werke mit Drittstaatenbezug enthalten.
 
 (4) Die Nutzung nach Absatz 1 gilt nur als in demjenigen Mitgliedstaat der Europäischen Union oder als in demjenigen Vertragsstaat des Abkommens über den Euro- päischen Wirtschaftsraum erfolgt, in dem die Kulturerbe-Einrichtung ihren Sitz hat.
 
@@ -28,10 +28,12 @@ Das Bundesministerium der Justiz und für Verbraucherschutz wird ermächtigt, du
 5. Repräsentativität von Verwertungsgesellschaften (§ 61d Absatz 1),
 6. Drittstaatenbezug (§ 61d Absatz 3 Nummer 4).
 
+
 ## § 61f Information über kollektive Lizenzen mit erweiterter Wirkung
 
 Verwertungsgesellschaften, Kulturerbe-Einrichtungen und das Amt der Europäischen Union für geistiges Eigentum dürfen Werke vervielfältigen und der Öffentlichkeit zugänglich machen, soweit dies erforderlich ist, um auf der Internetseite der Verwertungsgesellschaft oder dem Online-Portal des Amtes darüber zu informieren, dass die Verwertungsgesellschaft gemäß § 51 oder § 51b des Verwertungsgesellschaftengesetzes Rechte an diesem Werk einräumt oder eine Kulturerbe-Einrichtung gemäß § 61d dieses Werk nutzt.
 
+
 ## § 61g Gesetzlich erlaubte Nutzung und vertragliche Nutzungsbefugnis
 
-Auf Vereinbarungen, die erlaubte Nutzungen nach den §§ 61d und 61f zum Nachteil der Nutzungsberechtigten beschränken oder untersagen, kann sich der Rechtsinhaber nicht berufen.“
+Auf Vereinbarungen, die erlaubte Nutzungen nach den §§ 61d und 61f zum Nachteil der Nutzungsberechtigten beschränken oder untersagen, kann sich der Rechtsinhaber nicht berufen.
