@@ -1,4 +1,4 @@
-# Unterabschnitt 5a Gesetzlich erlaubte Nutzungen nicht verfügbarer Werke; Information über kollektive Lizenzen mit erweiterter Wirkung
+# Unterabschnitt 5a Besondere gesetzlich erlaubte Nutzungen nicht verfügbarer Werke
 
 ## § 61d Nicht verfügbare Werke
 
