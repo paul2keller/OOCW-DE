@@ -6,22 +6,21 @@
 
 (2) Der Außenstehende kann der Rechtseinräumung nach Absatz 1 jederzeit widersprechen.
 
-(3) Ein Vertrag nach Absatz 1 ist unter folgenden Voraussetzungen zulässig:
+(3) Ein Vertrag nach Absatz 1 ist unter folgenden Voraussetzungen zulässig: 
 
 1. Die Verwertungsgesellschaft ist repräsentativ (§ 51a).
 2. Der Vertrag gewährleistet, dass der Außenstehende im Verhältnis zur Verwertungsgesellschaft die gleichen Rechte und Pflichten hat wie ein Berechtigter.
 3. Der Vertrag gestattet nur inländische Nutzungen.
 4. Die Einholung der Nutzungserlaubnis von allen betroffenen Außenstehenden durch den Nutzer oder die Verwertungsgesellschaft ist unzumutbar.
 5. Die Verwertungsgesellschaft informiert auf ihrer Internetseite über
-    1. den Vertrag, einschließlich Angaben zu den erfassten Werken und betroffenen Rechtsinhabern,
-	  2. die Wirkung des Vertrages für Außenstehende gemäß dieser Vorschrift und
-	  3. das Recht der Außenstehenden zum Widerspruch nach Absatz 2.
+	1. ihre Fähigkeit zur Vergabe von kollektiven Lizenzen mit erweiterter Wirkung einschließlich deren Wirkungen für Außenstehende (§ 7a),
+	2. die Nutzungsarten, Werkarten und Gruppen von Rechtsinhabern, die in die Lizenzen einbezogen werden sollen, und
+	3. das Recht der Außenstehenden zum Widerspruch nach Absatz 2.
 6. Der Außenstehende hat innerhalb einer angemessenen Frist von mindestens drei Monaten seit Bekanntgabe der Information gemäß Nummer 5 der Rechtseinräumung gegenüber der Verwertungsgesellschaft nicht widersprochen.
 
 ## § 51a Repräsentativität der Verwertungsgesellschaft
 
-(1) Eine Verwertungsgesellschaft ist repräsentativ, wenn ihr eine erhebliche An-
-zahl von Berechtigten Rechte zur Wahrnehmung eingeräumt hat, die Gegenstand des Vertrags nach § 51 Absatz 1 sein sollen.
+(1) Eine Verwertungsgesellschaft ist repräsentativ, wenn sie für eine ausreichend große Zahl von Rechtsinhabern Rechte, die Gegenstand des Vertrags nach § 51 Absatz 1 sein sollen, auf vertraglicher Grundlage wahrnimmt.
 
 (2) Nimmt nur eine Verwertungsgesellschaft Rechte nach Absatz 1 wahr, so wird widerleglich vermutet, dass sie repräsentativ ist.
 
@@ -41,8 +40,8 @@ zahl von Berechtigten Rechte zur Wahrnehmung eingeräumt hat, die Gegenstand des
 	3. die Vervielfältigung sofort erlauben und
 	4. die Nutzung auch in den Mitgliedstaaten der Europäischen Union und des Europäischen Wirtschaftsraums erlauben.
 4. Das Werk befindet sich im Bestand der Kulturerbe-Einrichtung.
-5. Die Verwertungsgesellschaft gibt die Informationen entsprechend § 51 Absatz 3 Nummer 5 auf dem Online-Portal des Amtes der Europäischen Union für geistiges Eigentum bekannt.
-6. Der Außenstehende hat innerhalb von sechs Monaten seit Bekanntgabe der Information nach Nummer 5 der Rechtseinräumung gegenüber dem Amt der Europäischen Union für geistiges Eigentum nicht widersprochen.
+5. Die Verwertungsgesellschaft gibt auf dem Online-Portal des Amtes der Europäischen Union für geistiges Eigentum Informationen zur Identifizierung der einbezogenen nicht verfügbaren Werke, Informationen über die Vertragsparteien, die vereinbarten Nutzungsrechte, den Geltungsbereich der Lizenz sowie über das Recht der Außenstehenden zum Widerspruch nach Absatz 2 bekannt.
+6. Der Außenstehende hat innerhalb von sechs Monaten seit Bekanntgabe der Informationen nach Nummer 5 der Rechtseinräumung gegenüber dem Amt der Europäischen Union für geistiges Eigentum nicht widersprochen.
 
 ## § 51c Nicht verfügbare Werke einschließlich vergriffener Werke
 
@@ -54,22 +53,20 @@ zahl von Berechtigten Rechte zur Wahrnehmung eingeräumt hat, die Gegenstand des
 
 ## § 51d Repräsentativität der Verwertungsgesellschaft bei Drittstaatenbezug
 
-Soll die beabsichtigte Nutzung überwiegend Werkreihen mit Drittstaatenbezug umfassen, so ist ein Vertrag nach § 51b nur zulässig, wenn die Verwertungsgesellschaft repräsentativ auch für Rechtsinhaber des jeweiligen Drittstaates ist.
+Soll die beabsichtigte Nutzung Werkreihen umfassen, die überwiegend Werke mit Drittstaatenbezug enthalten, so ist ein Vertrag nach § 51b nur zulässig, wenn die Verwertungsgesellschaft repräsentativ auch für Rechtsinhaber des jeweiligen Drittstaates ist.
 
 ## § 51e Verordnungsermächtigung
 
 Das Bundesministerium der Justiz und für Verbraucherschutz wird ermächtigt, durch Rechtsverordnung ohne Zustimmung des Bundesrates zu folgenden Regelungen nähere Bestimmungen zu treffen:
-
 1. Ausübung und Rechtsfolgen des Widerspruchs des Außenstehenden (§ 51 Absatz 2 und § 51b Absatz 2),
 2. Fallgruppen, in denen der Rechteerwerb unzumutbar ist (§ 51 Absatz 3 Nummer 4),
-3. Informationen zu Verträgen (§ 51 Absatz 3 Nummer 5 und § 51b Absatz 3 Nummer 5) sowie deren Bekanntgabe einschließlich der Übermittlung von Einträgen aus dem Register vergriffener Werke beim Deutschen Patentund Markenamt an das Online-Portal des Amtes der Europäischen Union für geistiges Eigentum,
+3. Informationen zu kollektiven Lizenzen mit erweiterter Wirkung (§ 51 Absatz 3 Nummer 5 und § 51b Absatz 3 Nummer 5) sowie deren Bekanntgabe einschließlich der Übermittlung von Einträgen aus dem Register vergriffener Werke beim Deutschen Patentund Markenamt an das Online-Portal des Amtes der Europäischen Union für geistiges Eigentum,
 4. Angemessenheit der Frist (§ 51 Absatz 3 Nummer 6),
 5. Repräsentativität von Verwertungsgesellschaften (§ 51a), einschließlich Vermutungswirkung und gemeinsames Handeln mehrerer Verwertungsgesellschaften,
 6. berechtigte Kulturerbe-Einrichtungen (§ 51b),
 7. Verfügbarkeit von Werken (§ 51c) einschließlich des zur Ermittlung der Verfügbarkeit erforderlichen vertretbaren Aufwands und der Wahrung der Persönlichkeitsrechte bei nicht veröffentlichten Werken,
 8. Drittstaatenbezug (§ 51d).
 
-## § 51f Anwendbarkeit auf verwandte Schutzrechte
-
-Die Bestimmungen dieses Abschnitts sind auf verwandte Schutzrechte im Sinne
-des Urheberrechtsgesetzes entsprechend anzuwenden.“
+## § 51f Anwendung auf verwandte Schutzrechte
+Die Bestimmungen dieses Abschnitts sind auf verwandte Schutzrechte und ihre
+Inhaber im Sinne des Urheberrechtsgesetzes entsprechend anzuwenden.
